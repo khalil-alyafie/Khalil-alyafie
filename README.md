@@ -1,24 +1,26 @@
-# Welcome to My GitHub Profile! 👋  
+# Welcome to My GitHub Profile 👋  
 
 ## About Me  
 I'm a passionate developer and cybersecurity enthusiast. I'm building a strong foundation in programming and cybersecurity while continuously expanding my knowledge through hands-on practice.
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-- **C++** (Core concepts, OOP, Data Structures)  
-- **Python** (Core concepts, Scripting, Automation)  
-- **C#** (.NET)  
-- **JavaScript/HTML** (Web Development) 
+### Languages & Technologies
+- **C++** – Core Concepts, OOP, Data Structures
+- **Python** – Scripting, Automation
+- **C#** – .NET Fundamentals
+- **JavaScript**, **HTML**
 - **SQL Server**
 
-### Systems & Tools  
-- **Git/GitHub** (Version Control)
-- **Node.js** (Runtime Environment)  
-- **Linux**
+### Systems & Tools
+- **Git & GitHub** – Version Control
+- **Node.js** – Runtime Environment
+- **Linux** 
 
 
 ### Cybersecurity  
 - TryHackMe/HackTheBox Experience
+- Exploring bug bounty programs for vulnerability testing
 
 
 ## 📚 Projects  
@@ -26,7 +28,7 @@ I'm a passionate developer and cybersecurity enthusiast. I'm building a strong f
 
 **Coming Soon:**  
 - Repositories featuring C++, Python, and C# projects
-- Simple Web development projects.
+- Web development projects.
 
 **In Progress:**  
 - Cybersecurity write-ups from TryHackMe and Hack The Box challenges
@@ -40,7 +42,9 @@ I'm a passionate developer and cybersecurity enthusiast. I'm building a strong f
 -
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalil-alyafie)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:kk.alyafie@gmail.com)
+
+---
 
 *"The more I learn, the more I realize how much I don't know."* — Albert Einstein  
