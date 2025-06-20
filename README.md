@@ -39,7 +39,7 @@ I'm a passionate developer and cybersecurity enthusiast. I'm building a strong f
 - Expanding web development skills (JavaScript, HTML, and beyond)
 - Exploring real-world bug bounty reports and testing platforms
 - Following a DevOps roadmap to learn automation, CI/CD, containers, and cloud
--
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalil-alyafie)  
